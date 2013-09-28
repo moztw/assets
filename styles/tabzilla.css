@@ -1,0 +1,26 @@
+#tabzilla {
+    background: url("https://raw.github.com/moztw/tabzilla/master/media/img/tab.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    float: right;
+    height: 44px;
+    overflow: hidden;
+    position: relative;
+    text-indent: -2000px;
+    width: 150px;
+    z-index: 999;
+}
+/*#tabzilla:after {
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX///9ISEhr7AOpAAAAAXRSTlMAQObYZgAAACRJREFUCB1jQAYcAgwyFgx2NQzyPxj4PzCwP2BgPsDA2MCABAB3igVoBVbiiwAAAABJRU5ErkJggg==") repeat scroll 0 0 #FFFFFF;
+    border-radius: 8px 8px 8px 8px;
+    content: " ";
+    height: 16px;
+    position: absolute;
+    right: 23px;
+    top: 11px;
+    transform: rotate(0deg);
+    transition: all 0.2s ease-in-out 0s;
+    width: 16px;
+}
+#tabzilla.tabzilla-opened:after {
+    transform: rotate(180deg);
+}*/
