@@ -9,6 +9,18 @@
     width: 150px;
     z-index: 999;
 }
+
+#tabzilla:after {
+    background-color: white;
+    border-radius: 8px 8px 8px 8px;
+    content: " ";
+    height: 16px;
+    position: absolute;
+    right: 23px;
+    top: 11px;
+    width: 16px;
+}
+
 /*#tabzilla:after {
     background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX///9ISEhr7AOpAAAAAXRSTlMAQObYZgAAACRJREFUCB1jQAYcAgwyFgx2NQzyPxj4PzCwP2BgPsDA2MCABAB3igVoBVbiiwAAAABJRU5ErkJggg==") repeat scroll 0 0 #FFFFFF;
     border-radius: 8px 8px 8px 8px;
